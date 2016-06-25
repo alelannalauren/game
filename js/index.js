@@ -6,8 +6,8 @@ var press = function() {
 	Uscore++;
 	document.getElementById('score').innerHTML = "your new score" + Uscore;
 
-	If( Uscore > highscore) {
-		document.getElementById('highscore').innerHTML = "New Highscore" + Uscore;
+	if( Uscore > highscore) {
+		document.getElementById('hiscore').innerHTML = "New Highscore" + Uscore;
 		return;
 	}
 }
