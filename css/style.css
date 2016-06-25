@@ -1,0 +1,23 @@
+#button {
+	height: 300px;
+	width: 300px;
+	margin-left: 400px;
+}
+
+body{
+	background-color:#99ccff
+
+
+}
+
+#hiscore{
+	font-size: 200%;
+
+}
+
+h1{
+	font-size: 350%;
+	text-align: center;
+	color:green;
+}
+
